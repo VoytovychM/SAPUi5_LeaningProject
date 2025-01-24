@@ -1,0 +1,84 @@
+{
+    "Invoices": [
+        {
+            "ProductName": "Pineapple",
+            "Quantity": 21,
+            "ExtendedPrice": 87.2000,
+            "ShipperName": "Fun Inc.",
+            "ShippedDate": "2024-02-18T00:00:00",
+            "Status": "A"
+        },
+        {
+            "ProductName": "Apple",
+            "Quantity": 50,
+            "ExtendedPrice": 120.0000,
+            "ShipperName": "Fresh Fruits Co.",
+            "ShippedDate": "2024-03-01T00:00:00",
+            "Status": "B"
+        },
+        {
+            "ProductName": "Orange",
+            "Quantity": 30,
+            "ExtendedPrice": 75.5000,
+            "ShipperName": "Citrus Delivery Ltd.",
+            "ShippedDate": "2024-03-05T00:00:00",
+            "Status": "C"
+        },
+        {
+            "ProductName": "Banana",
+            "Quantity": 40,
+            "ExtendedPrice": 60.0000,
+            "ShipperName": "Tropical Express",
+            "ShippedDate": "2024-02-25T00:00:00",
+            "Status": "A"
+        },
+        {
+            "ProductName": "Watermelon",
+            "Quantity": 10,
+            "ExtendedPrice": 45.0000,
+            "ShipperName": "Green Farms",
+            "ShippedDate": "2024-03-02T00:00:00",
+            "Status": "C"
+        },
+        {
+            "ProductName": "Grapes",
+            "Quantity": 35,
+            "ExtendedPrice": 52.5000,
+            "ShipperName": "Vineyard Logistics",
+            "ShippedDate": "2024-02-28T00:00:00",
+            "Status": "A"
+        },
+        {
+            "ProductName": "Strawberry",
+            "Quantity": 25,
+            "ExtendedPrice": 80.0000,
+            "ShipperName": "Berry World",
+            "ShippedDate": "2024-03-03T00:00:00",
+            "Status": "B"
+        },
+        {
+            "ProductName": "Mango",
+            "Quantity": 20,
+            "ExtendedPrice": 65.0000,
+            "ShipperName": "Tropical Express",
+            "ShippedDate": "2024-03-06T00:00:00",
+            "Status": "C"
+        },
+        {
+            "ProductName": "Kiwi",
+            "Quantity": 15,
+            "ExtendedPrice": 30.0000,
+            "ShipperName": "Exotic Fruits Co.",
+            "ShippedDate": "2024-03-04T00:00:00",
+            "Status": "A"
+        },
+        {
+            "ProductName": "Blueberry",
+            "Quantity": 18,
+            "ExtendedPrice": 95.0000,
+            "ShipperName": "Berry World",
+            "ShippedDate": "2024-03-07T00:00:00",
+            "Status": "A"
+        }
+    ]
+}
